@@ -1,4 +1,5 @@
 <div align="center">
+  <img src=".github/assets/cover.png" alt="pagyew — project illustration" width="100%" />
   <h1>Vladislav Tsepilov</h1>
   <p><strong>Frontend developer · JavaScript, TypeScript, and things for the browser.</strong></p>
   <p>
