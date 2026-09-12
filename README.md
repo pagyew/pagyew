@@ -17,7 +17,7 @@
 
 ## 🚀 Right now
 
-- 📍 Bishkek, Kyrgyzstan 🇰🇬 · building for **Yandex** in Moscow, Russia 🇷🇺
+- 📍 From Bishkek, Kyrgyzstan 🇰🇬 · now in Moscow, Russia 🇷🇺, building for **Yandex**
 - 🧠 Growing a small family of instant browser quizzes on top of a shared `quiz-ui` engine
 - 🃏 Teaching a Chrome extension to read the board and suggest moves for *Wingspan* on Board Game Arena — private, work in progress
 - 🎄 Chipping away at Advent of Code, one December at a time
@@ -68,12 +68,5 @@ Earlier explorations of browser games, interfaces, and tooling:
 **Interfaces & tools** · [Todo List](https://github.com/pagyew/todolist) · [Todos 2.0](https://github.com/pagyew/todos-2.0) · [JSON Schedule Generator](https://github.com/pagyew/json-generator)
 
 **Other explorations** · [Procedural Trees](https://github.com/pagyew/trees) · [YouTube Awesome](https://github.com/pagyew/youtube-awesome)
-
----
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pagyew&show_icons=true&hide_border=true&bg_color=00000000&title_color=175556&icon_color=c6dd4f&text_color=1f2937" alt="pagyew's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagyew&layout=compact&hide_border=true&bg_color=00000000&title_color=175556&text_color=1f2937&langs_count=8" alt="Most used languages" />
-</div>
 
 <!-- Сообщение сформировано агентом -->
